@@ -1,5 +1,5 @@
 # 6502-cpu-emulator-
-A very simple(for now) 6502 cpu emulator that can only handle one instruction 
+A very simple(for now) 6502 cpu emulator that can only execute one instruction 
 
 ##  compile
 ```
